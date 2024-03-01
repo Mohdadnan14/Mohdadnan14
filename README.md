@@ -1,5 +1,6 @@
 i am ANSARI MOHD ADNAN MOHD ALI
--i am intrested in ethical hacking
+
+
 - 🌱 I’m currently learning engneering
   
 - 📫 How to reach me on message me insta @m_d.adnan
